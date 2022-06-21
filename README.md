@@ -81,7 +81,9 @@ for (char, frequency) in freq:
 ```
 ## Output:
 Print the characters and its huffmancode
+
 ![image](https://user-images.githubusercontent.com/75236145/174827285-945ad99d-c5a9-4baa-90dd-bb87879938ae.png)
+
 
 
 ## Result
